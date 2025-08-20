@@ -2,7 +2,7 @@
 #include <vector>
 #include <unordered_map>
 using namespace std;
-// similar to Leetcode 560
+
 vector<pair<int,int>> subarrayzsum(const vector<int>& arr)
 {
     vector<pair<int,int>> result;
